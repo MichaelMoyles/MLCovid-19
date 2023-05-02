@@ -1,18 +1,18 @@
 ,count,unique,top,freq,%missing
-case_month,20000,35,2022-01,2613,0.0
-res_state,20000,48,NY,2085,0.0
-state_fips_code,20000.0,48.0,36.0,2085.0,0.0
-res_county,18795,869,MIAMI-DADE,412,6.0249999999999995
-county_fips_code,18795.0,1206.0,12086.0,412.0,6.0249999999999995
-age_group,19840,4,18 to 49 years,7701,0.8
-sex,19517,2,Female,10094,2.415
-race,15233,5,White,12422,23.835
-ethnicity,13738,2,Non-Hispanic/Latino,12020,31.31
-process,1707,7,Clinical evaluation,824,91.465
-exposure_yn,1911,1,Yes,1911,90.445
-current_status,20000,2,Laboratory-confirmed case,16959,0.0
-symptom_status,9375,2,Symptomatic,9083,53.125
-hosp_yn,13317,2,No,9923,33.415
-icu_yn,1692,2,No,1178,91.53999999999999
-death_yn,20000,2,No,15000,0.0
-underlying_conditions_yn,1748,2,Yes,1726,91.25999999999999
+case_month,40000,35,2022-01,5227,0.0
+res_state,40000,49,NY,4315,0.0
+state_fips_code,40000,49,36,4315,0.0
+res_county,37568,929,MIAMI-DADE,820,6.08
+county_fips_code,37568.0,1326.0,12086.0,820.0,6.08
+age_group,39673,4,18 to 49 years,15357,0.8175
+sex,38999,3,Female,20250,2.5025
+race,30443,6,White,24858,23.8925
+ethnicity,27533,2,Non-Hispanic/Latino,24066,31.167499999999997
+process,3403,7,Clinical evaluation,1659,91.49249999999999
+exposure_yn,3849,1,Yes,3849,90.3775
+current_status,40000,2,Laboratory-confirmed case,34097,0.0
+symptom_status,18764,2,Symptomatic,18191,53.09
+hosp_yn,26508,2,No,19749,33.73
+icu_yn,3396,2,No,2367,91.51
+death_yn,40000,2,No,30000,0.0
+underlying_conditions_yn,3475,2,Yes,3431,91.3125
